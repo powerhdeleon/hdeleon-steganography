@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CoISaH10SLY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strat\\source\\repos\\hdeleon 2025\\Steganography\\Steganography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strat\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.4\\microsoft.win32.systemevents.9.0.4.nupkg.sha512",
+    "C:\\Users\\strat\\.nuget\\packages\\system.drawing.common\\9.0.4\\system.drawing.common.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
